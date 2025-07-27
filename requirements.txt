@@ -1,0 +1,19 @@
+streamlit
+pandas
+langchain
+langchain-groq
+langchain-community
+faiss-cpu
+PyMuPDF
+Pillow
+scikit-learn
+# Pin NumPy and SciPy to stable, compatible versions
+numpy==1.26.4
+scipy==1.12.0
+# Torch for CUDA 12.1
+torch==2.3.0
+torchvision==0.18.0
+easyocr
+
+sentence-transformers
+rank_bm25

@@ -1,0 +1,5 @@
+/.streamlit/
+/chat_history/
+/debug_extracted_images_check/
+/temp_documents/
+debug_images.py
